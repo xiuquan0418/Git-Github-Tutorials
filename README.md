@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/xiuquan0418/git-tutorial"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
+<p align="center"><a href="https://github.com/xiuquan0418/Git-Github-Tutorials"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
 
 <h1 align="center">Hands-on Tutorial: Introduction to Git and GitHub </h1>
 
@@ -18,7 +18,7 @@
 
 This tutorial aims to provide an in-depth introduction to version control systems using `git` and `GitHub`. It is designed to equip you with the necessary skills to effectively use these tools, regardless of your experience level.
 
-We will use the ⌨️ Command Line Interface (CLI) (i.e. `Bash` for Windows and `Terminal` in MacOS) to perform essential command line techniques. In case you want to learn how to use `git` with [GitHub Desktop](https://desktop.github.com/), please refer to the slides available [here](https://xiuquan0418.github.io/git-tutorial/slides.html).
+We will use the ⌨️ Command Line Interface (CLI) (i.e. `Bash` for Windows and `Terminal` in MacOS) to perform essential command line techniques. In case you want to learn how to use `git` with [GitHub Desktop](https://desktop.github.com/), please refer to the slides available [here](https://xiuquan0418.github.io/Git-Github-Tutorials/slides.html).
 
 
 ## Git: An Overview
