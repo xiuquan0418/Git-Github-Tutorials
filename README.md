@@ -3,7 +3,7 @@
 <h1 align="center">Hands-on Tutorial: Introduction to Git and GitHub </h1>
 
 <h3 align="center">
-    <a href="https://xiuquan0418.github.io/git-tutorial/slides.html">🖥️ Slides </a>
+    <a href="https://xiuquan0418.github.io/Git-Github-Tutorials/slides.html">🖥️ Slides </a>
     <a> | </a>
     <a href="">🌐 Blogpost</a>
     <a> | </a>
